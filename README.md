@@ -39,3 +39,26 @@ prompt_context() {
 	printf " ${EMOJI} ";
 }
 ```
+
+##### Color Palette
+
+###### Basic Colors
+* foreground | bold: `#bad2dc`
+* background: `#2e3348`
+* links: `#00ddef`
+* selection: `#171928`
+* selected text: `#f7cb6a`
+
+###### ANSI Colors
+* black: `#171928`
+* red: `#ff5c7b`
+* green: `#c9eb91`
+* yellow: `#f7cb6a`
+* blue: `#00c4db`
+* magenta: `#7f86ab`
+* cyan: `#00ddef`
+* white: `#bad2dc`
+
+###### Cursor Colors
+* cursor: `#f7cb6a`
+* cursor text: `#f7cb6a`
